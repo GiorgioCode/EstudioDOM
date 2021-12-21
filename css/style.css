@@ -222,7 +222,7 @@ color: #dd31dd;
   overflow: hidden;
 }
 .hero__image {
-  background-image: url("/img/fondo3.gif");
+  background-image: url("../img/fondo3.gif");
   height: 85vh;
   filter: blur(5px);
   background-position: center;
@@ -278,7 +278,7 @@ color: #dd31dd;
 .grid__imagen1 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_diseno_grafico.png);
+  background: url("../img/card_diseno_grafico.png");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -286,7 +286,7 @@ color: #dd31dd;
 .grid__imagen2 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_diseno_web.png);
+  background: url("../img/card_diseno_web.png");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -294,7 +294,7 @@ color: #dd31dd;
 .grid__imagen3 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_marketing.png);
+  background: url("../img/card_marketing.png");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -302,7 +302,7 @@ color: #dd31dd;
 .grid__imagen4 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_redesign.png);
+  background: url("../img/card_redesign.png");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -310,7 +310,7 @@ color: #dd31dd;
 .grid__imagen5 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_seo.jpg);
+  background: url("../img/card_seo.jpg");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -318,7 +318,7 @@ color: #dd31dd;
 .grid__imagen6 {
   height: 40vh;
   width: 100%;
-  background: url(/img/card_shopping.png);
+  background: url("../img/card_shopping.png");
   margin: 0.5rem 0;
   background-position: center;
   background-size:cover;
@@ -451,7 +451,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/responsive.jpg);
+  background-image: url("../img/responsive.jpg");
 }
 
 .blog__imagen--articulo2 {
@@ -461,7 +461,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/hosting.jfif);
+  background-image: url("../img/hosting.jfif");
 }
 
 .blog__imagen--articulo3 {
@@ -471,7 +471,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/redes.jfif);
+  background-image: url("../img/redes.jfif");
 }
 
 .blog__articulo {
@@ -508,7 +508,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/quienessomos.jfif);
+  background-image: url("../img/quienessomos.jfif");
 }
 
 .general__imagen--articulo2 {
@@ -518,7 +518,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/proceso.png);
+  background-image: url("../img/proceso.png");
 }
 
 .general__imagen--articulo3 {
@@ -528,7 +528,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/proyectos.JPG);
+  background-image: url("../img/proyectos.JPG");
 }
 .general__imagen--articulo4 {
   height: 40vh;
@@ -537,7 +537,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/consultaweb.jpg);
+  background-image: url("../img/consultaweb.jpg");
 }
 
 .general__imagen--articulo5 {
@@ -547,7 +547,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/tecnologias.png);
+  background-image: url("../img/tecnologias.png");
 }
 
 .general__imagen--articulo6 {
@@ -557,7 +557,7 @@ color: #dd31dd;
   margin: 0.5rem 0;
   background-position: center;
   overflow: hidden;
-  background-image: url(/img/equipo.jfif);
+  background-image: url("../img/equipo.jfif");
 }
 .general__articulo {
   width: 95%;
