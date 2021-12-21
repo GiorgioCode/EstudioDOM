@@ -17,14 +17,14 @@ Se ha simulado la identidad de una empresa dedicada al diseño y desarrollo web,
 
 **Logotipo:**
 
-![logo](../img/Logo.png)
+![logo](https://giorgiocode.github.io/estudiodom/img/Logo.png)
 
 **Icono:**
 
-![paleta de colores sitio](../img/Icono.png)
+![paleta de colores sitio](https://giorgiocode.github.io/estudiodom/img//Icono.png)
 
 * * *
 
 Se ha utilizado una paleta de colores que se desprende de la identidad de marca de la empresa.
 
-![paleta de colores sitio](../img/paleta_estudiodom.JPG)
+![paleta de colores sitio](https://giorgiocode.github.io/estudiodom/img/paleta_estudiodom.JPG)
